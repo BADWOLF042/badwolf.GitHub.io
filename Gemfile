@@ -1,4 +1,1 @@
-source "https://rubygems.org"
-
-gemspec
-Bundle install
+gem "jekyll-remote-theme"
